@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <CylinderTarget sideLength="85.000000" name="Roemerquelle"/>
+        <ImageTarget size="90.000000 90.000000" name="FH"/>
+        <ImageTarget size="41.000000 85.049583" name="Lion.Left"/>
+        <ImageTarget size="41.000000 85.049583" name="Lion.Right"/>
+        <ImageTarget size="63.000000 40.983871" name="Lion.Top"/>
+        <ImageTarget size="63.000000 40.983871" name="Lion.Bottom"/>
+        <ImageTarget size="63.000000 85.016129" name="Lion.Front"/>
+        <ImageTarget size="63.000000 85.016129" name="Lion.Back"/>
+        <MultiTarget name="Lion">
+            <Part rotation="AD: 0 1 0 -90" translation="-31.5 0 0" name="Lion.Left"/>
+            <Part rotation="AD: 0 1 0 90" translation="31.5 0 0" name="Lion.Right"/>
+            <Part rotation="AD: 1 0 0 0" translation="0 0 20.5" name="Lion.Front"/>
+            <Part rotation="AD: 0 1 0 180" translation="0 0 -20.5" name="Lion.Back"/>
+            <Part rotation="AD: 1 0 0 -90" translation="0 42.5 0" name="Lion.Top"/>
+            <Part rotation="AD: 1 0 0 90" translation="0 -42.5 0" name="Lion.Bottom"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_actionbar_background">#212121</color>
+    <color name="color_navigation_drawer_background">#212121</color>
+    <color name="color_navigation_drawer_divider">#757575</color>
+    <color name="color_navigation_drawer_item_ligth">#616161</color>
+    <color name="color_navigation_drawer_item_dark">#424242</color>
+</resources>
