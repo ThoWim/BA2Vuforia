@@ -1,7 +1,6 @@
 package at.fhooe.mc.ba2.wimmer.vuforia;
 
 import android.content.Context;
-import android.graphics.drawable.ColorDrawable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
